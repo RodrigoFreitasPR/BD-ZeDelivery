@@ -1,4 +1,4 @@
 
 # BD-ZeDelivery
 
-Banco de dados baseado no ZeDelivery
+Clone banco de dados baseado no ZeDelivery
